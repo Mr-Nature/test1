@@ -47,4 +47,8 @@ a {
     color: azure;
  }
 
- 
+ .extras {
+    display: flex;
+    width: 80%;
+    margin-left: 50px;
+}
