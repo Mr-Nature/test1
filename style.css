@@ -4,3 +4,23 @@ div.topheader {
     /*background-color: blue;*/
     text-align: center;
 }
+
+div.newsletter {
+    width: 100%;
+    margin-top: 60px;
+}
+
+div.n-scientist {
+    width: 100%;
+    font-family: "PT SERIF",Georgia, 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-size: xx-large;
+    font-weight: 600;
+    letter-spacing: -5px;
+}
+
+div.price-sale {
+    width: 100%;
+    margin-top: 50px;
+   /* background-color: #00bcfc;*/
+}
