@@ -24,3 +24,10 @@ div.price-sale {
     margin-top: 50px;
    /* background-color: #00bcfc;*/
 }
+
+div.price-sale1 {
+    background-color: #00bcfc;
+    width: 250px;
+    margin-left: 100px;
+    height: 30px;
+}
