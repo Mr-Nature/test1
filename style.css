@@ -73,3 +73,12 @@ span.ext {
     padding: 12px 16px;
     z-index: 1;
   }
+
+  .more:hover .dropdown-content {
+    display: block;
+}
+
+  span.ext:hover {
+    color: #00bcfc;
+}
+
