@@ -64,3 +64,12 @@ span.ext {
     position: relative;
     display: inline-block;
   }
+
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    width: fit-content;
+    padding: 12px 16px;
+    z-index: 1;
+  }
