@@ -59,3 +59,8 @@ span.ext {
     font-size: 16px;
     margin: 20px;
 }
+
+.more {
+    position: relative;
+    display: inline-block;
+  }
