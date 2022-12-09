@@ -120,6 +120,17 @@ span#Leah {
 
 span.byleah {
     margin-top: 500px;
-    background-color: #00bcfc;
+    /*background-color: #00bcfc;*/
     margin-bottom: 500px;
+
+div.image {
+    margin-left: 70px;
+}
+
+div.img-credit {
+    margin-left: 70px;
+    color: brown;
+    font-family: Titillium Web,Helvetica,Trebuchet MS,Arial,sans-serif;
+    font-size: 5px;
+    font-weight: 6px;
 }
