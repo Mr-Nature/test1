@@ -109,3 +109,17 @@ div.headingtwo {
     text-decoration:#000 underline 5px;
     text-underline-offset: 5px;
 }
+
+.author {
+    margin-left: 70px;
+}
+
+span#Leah {
+    color: #00bcfc;
+}
+
+span.byleah {
+    margin-top: 500px;
+    background-color: #00bcfc;
+    margin-bottom: 500px;
+}
