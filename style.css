@@ -158,9 +158,9 @@ div.readmore {
   background-color: #f5f5f5;
   width: 800px;
   height: 40px;
-  margin: 50px 0px 30px 70px;
-  font-family: Titillium Web,Helvetica,Trebuchet MS,Arial,sans-serif;
-  /*text-align: center;*/
+  margin: 50px 0 30px 70px;
+  font-family: Titillium Web, Helvetica, Trebuchet MS, Arial, sans-serif;
+ 
   line-height: 40px;
 }
 
@@ -169,21 +169,21 @@ div.readmore {
 }
 
 div.journal-ref {
-  width: 800px; 
+  width: 800px;
   margin-left: 70px;
-  font-family: Titillium Web,Helvetica,Trebuchet MS,Arial,sans-serif;
+  font-family: Titillium Web, Helvetica, Trebuchet MS, Arial, sans-serif;
 }
 
 div.signup {
   margin-left: 70px;
-  font-family: Titillium Web,Helvetica,Trebuchet MS,Arial,sans-serif;
+  font-family: Titillium Web, Helvetica, Trebuchet MS, Arial, sans-serif;
   margin-top: 15px;
 }
 
-div.more  {
-  width: 800px; 
+div.more {
+  width: 800px;
   margin-left: 70px;
-  font-family: Titillium Web,Helvetica,Trebuchet MS,Arial,sans-serif;
+  font-family: Titillium Web, Helvetica, Trebuchet MS, Arial, sans-serif;
   margin-top: 30px;
 }
 
@@ -200,8 +200,8 @@ div.more  {
   color: rgb(255, 255, 255);
   padding: 15px;
   border-radius: 4px;
-} 
+}
 
-div.NN {  
+div.NN { 
   padding: 20px;
 }
