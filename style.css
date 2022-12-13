@@ -63,7 +63,7 @@ span.ext {
 .more {
     position: relative;
     display: inline-block;
-  }
+}
 
   .dropdown-content {
     display: none;
@@ -170,4 +170,10 @@ div.readmore {
 
 #RM {
     margin-left: 10px;
+}
+
+div.journal-ref {
+    width: 800px; 
+    margin-left: 70px;
+    font-family: Titillium Web,Helvetica,Trebuchet MS,Arial,sans-serif;
 }
