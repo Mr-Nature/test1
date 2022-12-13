@@ -1,8 +1,6 @@
 div.topheader {
   margin-top: 200px;
   display: flex;
-  
-  /*background-color: blue;*/
   text-align: center;
 }
 
@@ -13,7 +11,7 @@ div.newsletter {
 
 div.n-scientist {
   width: 100%;
-  font-family: "PT SERIF",Georgia, 'Times New Roman', Times, serif;
+  font-family: "PT SERIF", Georgia, 'Times New Roman', Times, serif;
   font-style: normal;
   font-size: xx-large;
   font-weight: 600;
@@ -23,7 +21,6 @@ div.n-scientist {
 div.price-sale {
   width: 100%;
   margin-top: 50px;
-   /* background-color: #00bcfc;*/
 }
 
 div.price-sale1 {
